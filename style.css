@@ -14,10 +14,6 @@ li {
   padding-top: 10px;
 }
 
-.intros {
-  background-color: black; 
-}
-
 .footer {
   background-color: teal;
   padding-bottom: 15px;
@@ -25,7 +21,6 @@ li {
  }
 
 .footers {
-  background-color: black;
   margin-top:15px;
 }
 
