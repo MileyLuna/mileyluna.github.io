@@ -1,1 +1,94 @@
+* {
+  max-width: 700px;
+  margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: book antiqua, Arial, Helvetica, Sans-seif;
+}
+
+
+li {
+  font-size: 12px;
+}
+
+
+.intro {
+  background-color: teal;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.intros {
+  background-color: black;
+  
+ 
+  
+}
+
+.footer {
+  background-color: teal;
+  padding-bottom: 15px;
+  padding-top: 15px;
+ }
+
+.footers {
+  background-color: black;
+  margin-top:15px;
+}
+
+
+
+
+
+.professional {
+  margin: 10px;
+  margin-top: 25px;
+}
+
+.optum {
+  margin: 15px;
+}
+
+.gillete {
+  margin: 15px;
+}
+
+.cerenity {
+  margin: 15px;
+}
+
+.resident {
+  margin: 15px;
+}
+
+.house {
+  margin: 15px;
+}
+
+.education {
+  margin: 10px;
+  margin-top: 25px;
+}
+
+.river {
+  margin: 15px;
+}
+
+img {
+  width: 4%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
