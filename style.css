@@ -7,11 +7,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: book antiqua, Arial, Helvetica, Sans-seif;
 }
 
-
 li {
   font-size: 12px;
 }
-
 
 .intro {
   background-color: teal;
@@ -20,10 +18,7 @@ li {
 }
 
 .intros {
-  background-color: black;
-  
- 
-  
+  background-color: black; 
 }
 
 .footer {
@@ -36,10 +31,6 @@ li {
   background-color: black;
   margin-top:15px;
 }
-
-
-
-
 
 .professional {
   margin: 10px;
@@ -78,17 +69,3 @@ li {
 img {
   width: 4%
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
